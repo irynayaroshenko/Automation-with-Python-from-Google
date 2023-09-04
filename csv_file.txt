@@ -1,0 +1,4 @@
+John Doe, 555-1234, Manager
+Jane Smith, 555-5678, Developer
+Mike Johnson, 555-9876, Sales Representative
+Emily Davis, 555-4321, HR Coordinator
